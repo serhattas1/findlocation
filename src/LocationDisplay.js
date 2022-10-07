@@ -10,5 +10,5 @@ const LocationDisplay=({latitude})=>{
         </div>
     )
 }
-
+//Add comment for publish github
 export default LocationDisplay;
